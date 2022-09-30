@@ -1,0 +1,87 @@
+.main{
+  font-family:apple-system,BlinkMacSystemFont,"Segoe
+UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sansserif;
+  font-size: 18px;
+  font-color: #2D3748;
+}
+
+#image1{
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 12%;
+  border-radius:700px;
+  padding: 10px
+}
+
+.flexbox{
+  display:flex
+  flex-wrap: wrap;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #FFFFFF;
+  text-align: center;
+  background-color: #63B3ED;
+ }
+
+h1{
+ font-size:36px;
+}
+
+
+.title{
+  size: 32px;
+  color: #48BB78;
+}
+#image2{
+ float:right;
+ padding: 10px;
+}
+
+#image3{
+  float:left;
+  padding: 10px;
+}
+
+h4{
+  color: #718096;
+  margin-top:0;
+  padding:0;
+}
+
+aside{
+  font-color: #48BB78;
+  font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+.thelinks{
+ color: #4299E1;
+}
+
+.about{
+  font-color: #000000;
+  background-color: #E2E8F0;
+  padding: 10px;
+}
+
+ul{
+   list-style-type: none;
+   margin: 0;
+   padding:0;
+}
+
+.grid-info-center{
+  display: grid;
+  column-gap: 25px;
+  grid-template-columns: auto 300px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+footer{
+  background-color:#2C5282;
+  color:#FFFFFF;
+  alignment: left l0px;
+  padding: 10px;  
+}
